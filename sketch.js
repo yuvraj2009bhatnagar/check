@@ -80,7 +80,8 @@ function draw() {
   ground.display();
   stand1.display();
   stand2.display();
-
+polygon.display();
+  
   strokeWeight(2);
   stroke(15);
   fill("skyblue");
